@@ -14,7 +14,7 @@ function displayList(){
 
     ])
     .then(function (ans) {//Here "ans" is the object recieved from the above promise
-        if (ans.selection == 'About ') {
+        if (ans.selection == 'About') {
             console.log(`A passionately curious Web developer 
             who just found out that making websites and seeing 
             the magic happen on the Internet is what excites him the most.`);
