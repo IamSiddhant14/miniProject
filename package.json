@@ -1,5 +1,5 @@
 {
-  "name": "miniproject",
+  "name": "CLI resume",
   "version": "1.0.0",
   "description": "small js project CLI",
   "main": "index.js",
